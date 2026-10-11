@@ -1,10 +1,10 @@
 ## Tex Bonham
  
-CS senior at CSUN (B.S. May 2027), with associate degrees in Mathematics and Physics. I build systems-heavy projects — game engines, compilers, OS internals — mostly in C#. Currently teaching CS at Great Minds Robotics alongside my degree.
+CS senior at CSUN (B.S. May 2027), with associate degrees in Mathematics and Physics. I build systems-heavy projects, game engines, compilers, and OS internals that are mostly in C#. Currently teaching CS at Great Minds Robotics alongside my degree.
  
 ### Current: MSG — Multiplayer Strategy Game
  
-A 2D turn-based strategy game in the Advance Wars tradition, solo-developed under **TATB Studio** and targeting a Steam release. Unity 6 / C# on top of a Unity-free deterministic .NET rules engine — now 23 playtest builds in, with 16 commanders, 13 authored maps, an in-game map editor, and match replays.
+A 2D turn-based strategy game in the Advance Wars tradition, solo-developed under **TATB Studio** and targeting a Steam release. Unity 6 / C# on top of a Unity-free deterministic .NET rules engine, now with 23 playtest builds in, with 16 commanders, 13 authored maps, an in-game map editor, and match replays.
  
 - Online multiplayer over direct TCP and Steam P2P, with server-authoritative sessions, per-seat fog filtering, and per-action state hashing for desync detection
 - Successive generations of data-driven AI (a 197-term scoring vocabulary, then fog-honest belief maps with sighting memory), tuned through seeded 800-game overnight self-play batches
